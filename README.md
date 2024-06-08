@@ -1,7 +1,3 @@
-Claro! Vamos adicionar as informações sobre as técnicas e boas práticas implementadas, e mencionar que este foi um desafio proposto pela Beyond the Bytes.
-
----
-
 # 🚀 Interplanetary Delivery System
 
 Bem-vindo ao **Interplanetary Delivery System**! Este é um sistema de delivery entre planetas, especificamente entre a Terra e Marte, desenvolvido com React, TypeScript e Vite. Aqui, você pode cadastrar, editar e gerenciar endereços e pedidos interplanetários.
